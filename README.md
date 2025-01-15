@@ -6,5 +6,4 @@ This repository holds the "compiled PDFs" for the lecture notes for various vers
 Other web locations can point to this - there is no attempt to put a user interface in this repo.
 
 - the [2023](./2023) files are indexed [here](https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/)
-
-  
+- the [2022](./2022) files are indexed [here](https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/)
